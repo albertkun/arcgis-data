@@ -1,0 +1,280 @@
+DEPARTURE PORT,DEPARTUREPORTLATITUDE,DEPARTUREPORTLONGITUDE
+"San Francisco, CA",37.784827,-122.727802
+"Port of Lázaro Cárdenas, Mexico",17.9283,-102.169858
+"Tobasco, Mexico",23,-102
+"Laguano, Mexico",23,-102
+"Tlacoralpan, Mexico",23,-102
+"Galveston, TX",29.300874,-94.795911
+"Puerto, Mexico",18.14212,-94.4371
+"Beaumont, TX",30.086046,-94.101846
+"Port Arthur, TX",29.870904,-93.964278
+"Sabine, TX",31.480647,-93.771767
+"Cardenas, Mexico",17.99647,-93.37835
+"Saint Croix, WI",45.058307,-92.496091
+"Franklin, LA",29.795513,-91.50097
+"Cape Fair, Missouri",39.378379,-91.145141
+"Puerto Barissa, Guatamala",15.5,-90.25
+"Compeche, Mexico",19.188122,-90.249197
+"Jamaica, WI",44.50024,-90.00041
+"St Thomas, WI",44.50024,-90.00041
+"New Orleans, LA",30.068812,-89.930956
+"Mobile, AL",30.701142,-88.103184
+"Macoris, WI",43.979326,-88.042139
+"Bonaire, WI",43.071662,-87.894434
+"Apalachicola, FL",29.731714,-85.111304
+"Eastport, FL",29.741667,-84.876944
+"Macoris, San Domingo",8.53627,-83.30528
+"Palenque, San Domingo",8.53627,-83.30528
+"Havana, Cuba",23.13302,-82.38304
+"Havre, France",23.13302,-82.38304
+"Cedar Keys, FL",29.394848,-82.111581
+"Augusta, GA",33.47097,-81.974838
+"Camden, GA",30.900919,-81.668837
+"Jacksonville, FL",30.33218,-81.65565
+"Matanzas, Cuba",23.04111,-81.5775
+"Brunswick, GA",31.149883,-81.492627
+"Fernandina, FL",30.623355,-81.453052
+"St Simons, GA",31.13523,-81.3901
+"Darien, GA",31.413831,-81.369263
+"Savannah, GA",32.074679,-81.088261
+"Port Royal, SC",32.379424,-80.689116
+"Cienfuegos, Cuba",22.14611,-80.43556
+"Sagua La Grande, Cuba",22.801707,-80.069219
+"Trinidad, Cuba",21.80194,-79.98417
+"Charleston, SC",32.780326,-79.940844
+"Aspinwall, Central America",40.491458,-79.904773
+"Aspinwall, PA",40.491458,-79.904773
+"Aspinwall, PA via Key West",40.491458,-79.904773
+"Cristobal, Canal Zone",9.351103,-79.900325
+"Sabanilla, Equador",-2.007999,-79.892216
+"Porto Bello, Panama",9.549206,-79.653625
+"Caibarien, Cuba",22.52056,-79.46694
+"Wilmington, NC",34.225726,-77.94471
+"Washington, NC",34.225726,-77.94471
+"Port of Wilmington, North Carolina",34.229403,-77.879927
+"Black River, Jamaica",18.02636,-77.84873
+"Port of Yorktown, Virginia",36.706298,-77.55281
+"Old Point, VA",37.54812,-77.44675
+"Metomkin, VA",37.54812,-77.44675
+"Magothy, VA",37.54812,-77.44675
+"Richmond, VA",37.611292,-77.438188
+"Fredericksburg, VA",38.313488,-77.403848
+"Ocean Cay Port, Bahamas",25.04082,-77.37122
+"Nassau, Bahamas",25.05823,-77.34306
+"James River, VA",37.409467,-77.307524
+"Jones Landing, James River, VA",37.409467,-77.307524
+"City Point, VA",37.315,-77.276944
+"Lambert's Point, VA",36.885614,-77.210612
+"Potomac River, MD",39.082228,-77.159567
+"Pamunkey River, VA",37.662246,-77.109355
+"Georgetown, DC",38.904834,-77.062478
+"Georgetown, SC",38.904834,-77.062478
+"Alexandria, VA",38.80484,-77.04692
+"Washington, DC",38.895112,-77.036366
+"New Bern, NC",35.125849,-76.977181
+"Claremont, VA",37.22793,-76.96413
+"Bermuda Hundred, VA",36.701539,-76.961073
+"Bogue Inlet, NC",34.721643,-76.917636
+"West Point, VA",37.607215,-76.891642
+"Kingston, Jamaica",18.018841,-76.802032
+"Morehead City, NC",34.727798,-76.770987
+"Plymouth, NC",35.868477,-76.747544
+"York River, VA",37.356027,-76.63592
+"Baltimore, MD",39.296536,-76.623489
+"Trinidad, BWI",39.29038,-76.61219
+"Beaufort, NC",34.753777,-76.610744
+"Edenton, NC",36.135621,-76.580107
+"Suffolk, VA",36.874916,-76.553061
+"Annapolis, MD",38.98775,-76.5528
+"Newport News, VA",37.058296,-76.463471
+"Port Antonio, Jamaica",18.172567,-76.448088
+"Rappahannock, VA",37.650349,-76.388712
+"Hampton Roads, VA",37.000188,-76.369036
+"Elizabeth City, NC",36.285388,-76.213284
+"Norfolk, VA",36.895911,-76.208521
+"Indian Creek, VA",36.588912,-76.172111
+"Calcutta, India",22.56263,-76.07986446
+"Cambridge, MD",38.479813,-76.079864
+"Sloop Point, VA",36.875714,-76.053457
+"Cape Henry, VA",36.931485,-76.01994
+"Ocracoke, NC",35.12803,-75.91538
+"Georgetown, PEI",4.81333,-75.69611
+"Hog Island, VA",37.422901,-75.693478
+"Kettle Creek, NY",42.603744,-75.645463
+"Wilmington, DE",39.727113,-75.547844
+"Delaware Breakwater, Delaware",39.00039,-75.49992
+"St Marks, NY",43.00035,-75.4999
+"Milford, DE",38.91261,-75.42797
+"Chincoteague, VA",37.933179,-75.378809
+"Milton, DE",38.77761,-75.30991
+"Essington, PA",39.86206,-75.29713
+"Broadkill, DE",38.826694,-75.211424
+"Philadelphia, PA",39.952335,-75.163789
+"Camden, NJ",39.927878,-75.12218
+"Maurice River, NJ",39.940163,-75.083794
+"Dividing Creek, NJ",39.298607,-75.05781
+"Millville, NJ",39.370401,-75.04282
+"Cape May, NJ",38.95928,-74.9274
+"Tuckahoe, NJ",39.290901,-74.75429
+"Mays Landing, NJ",39.47204,-74.71588
+"Egg Harbor, NJ",39.376839,-74.611092
+"Somers Point, NJ",39.31762,-74.5946
+"Greenbank, NJ",39.611636,-74.583908
+"Baracoa, Cuba",20.34667,-74.49583
+"Baralos, Cuba",20.34667,-74.49583
+"Absecon, NJ",39.42845,-74.49571
+"Port Republic, NJ",39.520627,-74.487431
+"Atlantic City, NJ",39.377297,-74.451082
+"Atlantic Highlands, NJ",39.377297,-74.451082
+"New Gretna, NJ",39.59234,-74.45098
+"Tuckerton, NJ",39.60317,-74.34014
+"Morris River, NJ",40.994364,-74.308535
+"Barnegat, NJ",39.753858,-74.293989
+"Manahawkin, NJ",39.702978,-74.257677
+"Barnegat Inlet, NJ",39.755813,-74.244895
+"Barnegat Bay, New Jersey",39.755813,-74.244895
+"Newark, NJ",40.739433,-74.176545
+"Shrewsbury, NJ",40.32955,-74.06153
+"New York, NY",40.714269,-74.005973
+"Deal, NJ",40.250861,-74.004581
+"Highlands, NJ",40.40372,-73.99153
+"Les Cayes, Haiti",18.2,-73.75
+"Bridgeport, CT",41.308873,-73.363661
+"Long Island, NY",40.80178,-73.220989
+"Fire Island, NY",40.66489,-73.07018
+"Gonaives, Haiti",19.45,-72.68333
+"Jacmel, Haiti",18.23417,-72.53472
+"Port of Peace, Haiti",19,-72.41667
+"Port au Prince, Haiti",18.53917,-72.335
+"Port-au-Prince, Haiti",18.53917,-72.335
+"North Caicos, Turks and Caicos Islands",21.894451,-71.97363
+"Turks Is., West Indies",21.777798,-71.698327
+"Providence, RI",41.82275,-71.414451
+"Salt Key, Turks Island",21.335382,-71.205307
+"Dighton, MA",41.81399,-71.12032
+"Caldera, Chile",-27.06812,-70.81922
+"Portsmouth, NH",43.072502,-70.76585
+"Gloucester, MA",42.630011,-70.694179
+"St Domingo, Dominican Republic",19,-70.66667
+"Punta Cardón, Venezuela",11.65806,-70.215
+"Pisagua, Chile",-19.59715,-70.21212
+"Harwich, MA",41.68622,-70.07585
+"Santo Domingo, Dom Rep",18.50012,-69.98857
+"Santo Domingo, Dominican Republic",18.50012,-69.98857
+"San Nicolas Port, Aruba",12.5,-69.96667
+"East Blue Hill, Maine",44.507856,-67.859167
+"Mayaguez, PR",18.20107,-67.13962
+"La Guaira, Venezuela",10.602738,-66.930797
+"Ponce, Puerto Rico",18.01108,-66.61406
+"St Johns, Puerto Rico",18.24829,-66.49989
+"San Juan, Puerto Rico",18.46633,-66.10572
+"Pembroke Parish, Bermuda",32.29944,-64.79278
+"Tortola, BVI",18.440201,-64.636663
+"Limetree Bay, Virgin Islands",18.5,-64.5
+"Nova Scotia, Canada",44.962682,-63.843631
+"Picton, NS",45.00015,-62.99865
+"Port of Spain, Trinidad",10.649246,-61.504434
+"Rosario, Argentina",-32.94682,-60.63932
+"Barbados, Carribean",13.1667,-59.5333
+"Barbados, Caribbean",13.1667,-59.5333
+"Buenos Aeris, Arg",-34.5167,-58.5389
+"Buenos Aires, Arg",-34.5167,-58.5389
+"Buenos Aries, Arg",-34.5167,-58.5389
+"Buenos Aires, Argentina",-34.5167,-58.5389
+"Demerara, British Guiana",6.80448,-58.15527
+"New Amsterdam, Guyana",6.24793,-57.5171
+"Montevideo, Uraguay",-34.89351,-56.18917
+"Newfoundland and Labrador, Canada",52,-56
+"Rio de Janiero, Brazil",-10,-55
+"Rio Grande do Sul, Brazil",-30,-54
+"Trinity, NF",48.367228,-53.362576
+"Rio Grande, Brazil",-32.035,-52.09861
+"Areciba, PR",-24,-51
+"Bell River, SC",-27,-50
+"Para, Brazil",-1.45583,-48.50444
+"São Luís, Brazil",-2.52972,-44.30278
+"Boston, MA",42.370567,-42.370567
+"Bahia, Brazil",-12.97111,-38.51083
+"Aracaju, Brazil",-10.91111,-37.07167
+"Natal, Brazil",-5.795,-35.20944
+"Lisbon, Portugal",38.71667,-9.13333
+"Limerick, Ireland",52.66472,-8.62306
+"Newry, Ireland",53,-8
+"Huelva, Spain",37.25833,-6.95083
+"Cadiz, Spain",36.53361,-6.29944
+"Tangier Mediterranean port 1, Tangier",35.76727,-5.79975
+"Greenock, Scotland",55.9491746,-4.7629952
+"Malaga, Spain",36.72016,-4.42034
+"Glasgow, Scotland",55.861147,-4.2499891
+"Plymouth, England",50.3712779,-4.1424595
+"Spain, España",40,-4
+"Swansea, Wales",51.6211442,-3.9467751
+"Whitehaven, UK",54.54897,-3.58412
+"Newport, Wales",51.5882332,-2.9974967
+"Liverpool, England",53.4054719,-2.9805393
+"Bristol, England",51.45523,-2.59665
+"Newcastle, England",54.97328,-1.61396
+"Shields, England",54.99859,-1.4323
+"Southampton, England",50.9035305,-1.4041996
+"Cartagena, Spain",37.60512,-0.98623
+"Belfast, England",52.16045,-0.70312
+"Middlesboro, England",52.16045,-0.70312
+"Bordeaux, France",44.84044,-0.5805
+"London, England",51.5072648,-0.1278328
+"La Havre, France",49.4938,0.10767
+"Le Havre, France",49.4938,0.10767
+"Cetti, France",46,2
+"Nantz, France",46,2
+"Camcaret, France",46,2
+"Dunkirk, France",51.05,2.36667
+"Port-Vendres, France",42.51792,3.10553
+"Havre, Belgium",50.46401,4.04675
+"Antwerp, Belgium",51.21989,4.40346
+"Rotterdam, Holand",51.9225,4.47917
+"Rotterdam, Netherlands",51.9225,4.47917
+"Bergen, Norway",60.39299,5.32415
+"Marseilles, France",43.29695,5.38107
+"Bremerhaven, Germany",53.55021,8.57674
+"Bremen, Germany",53.077165,8.801868
+"Genoa, Italy",44.40632,8.93386
+"Hamburg, Germany",53.57532,10.01534
+"Livorno, Province of Livorno, Italy",43.54264,10.316
+"Lewiston, DE",51.5,10.5
+"Stettin, Germany",51.5,10.5
+"Cape Haytien, DE",51.5,10.5
+"St Croix, USVI",51.483,11.972
+"St John, NF",51.483,11.972
+"Caylian, Italy",42.83333,12.83333
+"Trieste, Austria",47.33333,13.33333
+"Palermo, Sicily",38.11582,13.35976
+"Messina, Sicily",38.19327,15.54969
+"Cape Town, SA",-33.923743,18.415053
+"Tinos, Greece",37.53753,25.16343
+"Bussorah, Persian Gulf",27.130545,51.434401
+"Gustavia, St Barthélemy",17.89618,62.84978
+"Chochin, India",9.931718,76.267085
+"Penang, Malaysia",5.4339,100.296819
+"Chongqing, China",29.56278,106.55278
+"Canton, China",23.108553,113.25778
+"Hong Kong, China",22.318892,114.176419
+"Manila, Philippines",14.6042,120.9822
+"Kobe, Japan",34.6913,135.183
+"Auckland, NZ",-36.86667,174.76667
+"Pernambuco, Brazil",-8.56884, -37.779078
+"Miragoane, Haiti",18.439831, -73.085652
+"Port Morant, Jamaica",17.89621, -76.331549
+"Yatesville, NC",35.528314, -76.739441
+"Milk River, Jamaica",17.879121, -77.356585
+"Catalona, Spain",41.617592,0.620015
+"Montevideo, SA",,
+"Little Egg Harbor, NJ",,
+"Assawoman, VA",,
+"Cebu, Philippines",,
+"Breman, Norway",,
+"Amsterdam, Neth",,
+"Calais, ME",,
+"Pergaubar River, Va",,
+"Schuylkill, NJ",,
+"Hatteras, NC",,
+"Manzamillo, Cuba",,
+"San Domingo, WI",,
